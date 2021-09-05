@@ -1,22 +1,7 @@
-![](static/ultimate-go-notebook-cover-github.jpg)
+# 技术写作课程
 
-# Ultimate Go Notebook 中文译本
-    
-- Welcome
-- Intended Audience
-- Acknowledgements
-- Table Of Contents
-    - Chapter 1: Introduction
-    - Chapter 2: Language Mechanics
-    - Chapter 3: Data Structures
-    - Chapter 4: Decoupling
-    - Chapter 5: Software Design
-    - Chapter 6: Concurrency
-    - Chapter 7: Testing
-    - Chapter 8: Benchmarking
-    - Chapter 9: Generics
-    - Chapter 10: Profiling
-    - Chapter 11: Profiling Live Code
-    - Chapter 12: Tracing
-    - Chapter 13: Stack Traces / Core Dumps
-    - Chapter 14: Blog Posts
+每一位工程师都有另一个身份：作家。
+
+这套课程与学习资源旨在帮你提升技术文档的写作能力，学会如何策划和写作技术文档。你还可以了解到在 Google，技术作者是怎样一个角色。
+
+> 译者注：本套写作指南翻译自 Google 的 [Technical Writing Courses](https://developers.google.com/tech-writing)，在此推荐有兴趣的同学参与到原课程的更多内容中去。Google 除了本套 Courses 外，还有大量技术创作、技术分享的课程。
