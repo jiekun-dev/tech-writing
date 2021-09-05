@@ -2,92 +2,92 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>技术写作课程</title>
-    <link>https://jiekun.github.io/tech-writting/</link>
+    <link>https://jiekun.github.io/tech-writing/</link>
     <description>Recent content on 技术写作课程</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     
-	<atom:link href="https://jiekun.github.io/tech-writting/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jiekun.github.io/tech-writing/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://jiekun.github.io/tech-writting/docs/one/active-voice/</link>
+      <link>https://jiekun.github.io/tech-writing/docs/one/active-voice/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jiekun.github.io/tech-writting/docs/one/active-voice/</guid>
+      <guid>https://jiekun.github.io/tech-writing/docs/one/active-voice/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://jiekun.github.io/tech-writting/docs/one/audience/</link>
+      <link>https://jiekun.github.io/tech-writing/docs/one/audience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jiekun.github.io/tech-writting/docs/one/audience/</guid>
+      <guid>https://jiekun.github.io/tech-writing/docs/one/audience/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://jiekun.github.io/tech-writting/docs/one/clear-sentences/</link>
+      <link>https://jiekun.github.io/tech-writing/docs/one/clear-sentences/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jiekun.github.io/tech-writting/docs/one/clear-sentences/</guid>
+      <guid>https://jiekun.github.io/tech-writing/docs/one/clear-sentences/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://jiekun.github.io/tech-writting/docs/one/documents/</link>
+      <link>https://jiekun.github.io/tech-writing/docs/one/documents/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jiekun.github.io/tech-writting/docs/one/documents/</guid>
+      <guid>https://jiekun.github.io/tech-writing/docs/one/documents/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://jiekun.github.io/tech-writting/docs/one/lists-and-tables/</link>
+      <link>https://jiekun.github.io/tech-writing/docs/one/lists-and-tables/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jiekun.github.io/tech-writting/docs/one/lists-and-tables/</guid>
+      <guid>https://jiekun.github.io/tech-writing/docs/one/lists-and-tables/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://jiekun.github.io/tech-writting/docs/one/paragraphs/</link>
+      <link>https://jiekun.github.io/tech-writing/docs/one/paragraphs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jiekun.github.io/tech-writting/docs/one/paragraphs/</guid>
+      <guid>https://jiekun.github.io/tech-writing/docs/one/paragraphs/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://jiekun.github.io/tech-writting/docs/one/short-sentences/</link>
+      <link>https://jiekun.github.io/tech-writing/docs/one/short-sentences/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jiekun.github.io/tech-writting/docs/one/short-sentences/</guid>
+      <guid>https://jiekun.github.io/tech-writing/docs/one/short-sentences/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://jiekun.github.io/tech-writting/docs/one/summary/</link>
+      <link>https://jiekun.github.io/tech-writing/docs/one/summary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jiekun.github.io/tech-writting/docs/one/summary/</guid>
+      <guid>https://jiekun.github.io/tech-writing/docs/one/summary/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://jiekun.github.io/tech-writting/docs/one/words/</link>
+      <link>https://jiekun.github.io/tech-writing/docs/one/words/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jiekun.github.io/tech-writting/docs/one/words/</guid>
+      <guid>https://jiekun.github.io/tech-writing/docs/one/words/</guid>
       <description>1.1 遣词造句 我们对文档进行了大量研究，结论就是，要写出好的句子，主要看如何使用词汇。
 1.1.1 给出新词条的定义 写作或者编辑的时候，学会识别出哪些词条对于你的部分或全部读者来说会不熟悉。若存在这样的词条，可以采取以下两种策略：
  如果词条已经存在，链接至一个已有的、正确的解释。（不重复造轮子。） 如果你的文档要详细介绍这个词条，那么给出它的定义。如果你的文档要介绍多个词条，把它们的定义放到一个术语表中。  1.1.2 对词条的使用要一致 如果你在方法中换用不同的变量名代表同一个内容，你的代码无法完成编译。类似地，如果你在文档中突然换用另一个词条名，你的想法也没办法在读者脑海中编译成功。
@@ -100,46 +100,46 @@
     
     <item>
       <title></title>
-      <link>https://jiekun.github.io/tech-writting/docs/two/editing/</link>
+      <link>https://jiekun.github.io/tech-writing/docs/two/editing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jiekun.github.io/tech-writting/docs/two/editing/</guid>
+      <guid>https://jiekun.github.io/tech-writing/docs/two/editing/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://jiekun.github.io/tech-writting/docs/two/illustrations/</link>
+      <link>https://jiekun.github.io/tech-writing/docs/two/illustrations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jiekun.github.io/tech-writting/docs/two/illustrations/</guid>
+      <guid>https://jiekun.github.io/tech-writing/docs/two/illustrations/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://jiekun.github.io/tech-writting/docs/two/large-docs/</link>
+      <link>https://jiekun.github.io/tech-writing/docs/two/large-docs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jiekun.github.io/tech-writting/docs/two/large-docs/</guid>
+      <guid>https://jiekun.github.io/tech-writing/docs/two/large-docs/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://jiekun.github.io/tech-writting/docs/two/sample-code/</link>
+      <link>https://jiekun.github.io/tech-writing/docs/two/sample-code/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jiekun.github.io/tech-writting/docs/two/sample-code/</guid>
+      <guid>https://jiekun.github.io/tech-writing/docs/two/sample-code/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://jiekun.github.io/tech-writting/docs/two/summary/</link>
+      <link>https://jiekun.github.io/tech-writing/docs/two/summary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jiekun.github.io/tech-writting/docs/two/summary/</guid>
+      <guid>https://jiekun.github.io/tech-writing/docs/two/summary/</guid>
       <description></description>
     </item>
     

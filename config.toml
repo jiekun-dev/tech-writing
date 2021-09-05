@@ -1,4 +1,4 @@
-baseURL = "https://jiekun.github.io/tech-writting"
+baseURL = "https://jiekun.github.io/tech-writing"
 languageCode = "zh-cn"
 title = "技术写作课程"
 theme = "book"

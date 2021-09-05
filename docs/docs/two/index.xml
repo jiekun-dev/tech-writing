@@ -2,56 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>技术写作课程</title>
-    <link>https://jiekun.github.io/tech-writting/docs/two/</link>
+    <link>https://jiekun.github.io/tech-writing/docs/two/</link>
     <description>Recent content on 技术写作课程</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     
-	<atom:link href="https://jiekun.github.io/tech-writting/docs/two/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jiekun.github.io/tech-writing/docs/two/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://jiekun.github.io/tech-writting/docs/two/editing/</link>
+      <link>https://jiekun.github.io/tech-writing/docs/two/editing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jiekun.github.io/tech-writting/docs/two/editing/</guid>
+      <guid>https://jiekun.github.io/tech-writing/docs/two/editing/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://jiekun.github.io/tech-writting/docs/two/illustrations/</link>
+      <link>https://jiekun.github.io/tech-writing/docs/two/illustrations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jiekun.github.io/tech-writting/docs/two/illustrations/</guid>
+      <guid>https://jiekun.github.io/tech-writing/docs/two/illustrations/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://jiekun.github.io/tech-writting/docs/two/large-docs/</link>
+      <link>https://jiekun.github.io/tech-writing/docs/two/large-docs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jiekun.github.io/tech-writting/docs/two/large-docs/</guid>
+      <guid>https://jiekun.github.io/tech-writing/docs/two/large-docs/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://jiekun.github.io/tech-writting/docs/two/sample-code/</link>
+      <link>https://jiekun.github.io/tech-writing/docs/two/sample-code/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jiekun.github.io/tech-writting/docs/two/sample-code/</guid>
+      <guid>https://jiekun.github.io/tech-writing/docs/two/sample-code/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://jiekun.github.io/tech-writting/docs/two/summary/</link>
+      <link>https://jiekun.github.io/tech-writing/docs/two/summary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jiekun.github.io/tech-writting/docs/two/summary/</guid>
+      <guid>https://jiekun.github.io/tech-writing/docs/two/summary/</guid>
       <description></description>
     </item>
     

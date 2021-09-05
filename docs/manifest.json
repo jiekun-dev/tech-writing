@@ -1,14 +1,14 @@
 {
   "name": "技术写作课程",
   "short_name": "技术写作课程",
-  "start_url": "/tech-writting/",
-  "scope": "/tech-writting/",
+  "start_url": "/tech-writing/",
+  "scope": "/tech-writing/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/tech-writting/favicon.png",
+      "src": "/tech-writing/favicon.png",
       "sizes": "512x512"
     }
   ]
