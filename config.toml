@@ -1,0 +1,8 @@
+baseURL = "https://jiekun.github.io/tech-writting"
+languageCode = "zh-cn"
+title = "技术写作课程"
+theme = "book"
+publishDir = "docs"
+
+[params]
+   BookMenuBundle = '/menu'
