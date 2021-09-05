@@ -1,8 +1,11 @@
-<div class="flex flex-wrap justify-between">
+<div>
 {{ if .Site.IsMultiLingual }}
   {{ partial "docs/languages" . }}
 {{ end }}
-
+<hr>
+<blockquote>
+  <p>本作品采用 <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 License</a> 协议进行许可。翻译内容来自 <a href="https://developers.google.com/tech-writing">Google Technical Writing</a>，创作遵守原内容的规范、声明与协议。</p>
+</blockquote>
 {{ if and .GitInfo .Site.Params.BookRepo }}
   <div>
     {{- $date := partial "docs/date" (dict "Date" .GitInfo.AuthorDate.Local "Format" .Site.Params.BookDateFormat) -}}
@@ -22,3 +25,5 @@
   </div>
 {{ end }}
 </div>
+
+
