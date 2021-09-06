@@ -5,10 +5,6 @@
     <link>https://jiekun.github.io/tech-writing/tags/</link>
     <description>Recent content in Tags on 技术写作课程</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
-    
-	<atom:link href="https://jiekun.github.io/tech-writing/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>zh-cn</language><atom:link href="https://jiekun.github.io/tech-writing/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
