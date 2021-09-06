@@ -12,7 +12,7 @@ headless: true
   - [1.6 段落]({{< relref "/docs/one/paragraphs" >}})
   - [1.7 读者]({{< relref "/docs/one/audience" >}})
   - [1.8 文档]({{< relref "/docs/one/documents" >}})
-  - [1.8 总结]({{< relref "/docs/one/summary" >}})
+  - [1.9 总结]({{< relref "/docs/one/summary" >}})
 - [**Chapter 2: 技术沟通技巧**]({{< relref "/docs/two" >}})
   - [2.1 自我编辑]({{< relref "/docs/two/editing" >}})
   - [2.2 组织长文档]({{< relref "/docs/two/large-docs" >}})
