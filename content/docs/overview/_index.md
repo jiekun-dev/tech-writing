@@ -7,7 +7,7 @@
 
 课前部分介绍了不同的学习目标；课内部分帮助读者深入和进行实践。也就是说，课前部分本身即具有一定的学习价值。
 
-Google 提供了在公司或组织内进行课内学习需要的所有材料。若希望在了解如何在公司或组织内进行课程指导，请查看[指导技术写作课程](https://developers.google.com/tech-writing/for-instructors)。
+Google 提供了在公司或组织进行课内学习需要的所有材料。若希望在了解如何在公司或组织进行课程指导，请查看[指导技术写作课程](https://developers.google.com/tech-writing/for-instructors)。
 
 > 备注：Google 偶尔会对公众提供免费的课内学习场次。详见[公告](https://developers.google.com/tech-writing/announcements)。
 
@@ -15,4 +15,4 @@ Google 提供了在公司或组织内进行课内学习需要的所有材料。�
 - 软件工程师
 - 软件工程或计算机科学的学生
 
-另外，许多与软件工程师打交道的职位（如产品经理）的读者也可以从这些课程中受益。
+另外，许多与软件工程师打交道（如产品经理）的读者也可以从这些课程中受益。
