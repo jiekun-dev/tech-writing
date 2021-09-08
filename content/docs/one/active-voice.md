@@ -1,17 +1,15 @@
 # 1.2 主动语态 vs. 被动语态
 > 预计阅读时间：15 分钟
 
-> *译注：本小节主要针对英语内容，读者可以选择性阅读。*
+> *译注：本节主要针对英语内容，读者可以选择性阅读。*
 
 技术写作中，绝大多数的句子都应该使用主动语态。本节将传授给你以下知识点：
 - 如何区分被动语态和主动语态。
 - 如何将被动语态转换为主动语态，因为主动语态通常更清晰明了。
 
-让我们从观看一段视频开始（get the ball rolling）：
+让我们从观看一段视频开始（get the ball rolling[^1]）：
 
 [视频链接](https://youtu.be/nG6DhoFt938)
-
-> *译注：“Getting the ball rolling” 是个惯用语，含义与 “to get something started.” 相似。*
 
 ## 1.2.1 在简单句子中区分主被动语态
 在主动语态的句子中，主语施加动作于目标（actor acts on a target）。也就是说，主动语态的句子应该遵循以下公式：
@@ -131,7 +129,7 @@
 
 我们能看出来谁对何物做了什么事吗？不能。被动语态让信息更加客观吗？并没有。
 
-很多科学期刊已经选择拥抱主动语态。我们鼓励其他的科研内容也追求清晰明了表达形式。
+很多科学期刊已经选择拥抱主动语态。我们鼓励其他的科研内容也追求清晰明了的表达形式。
 
 ### 1.2.4.2 随堂练习
 将下列被动语态句子改写为主动语态。其中有些句子只有部分是以被动语态书写的；保证改写后所有部分都使用主动语态：
@@ -141,3 +139,7 @@
 - Quality metrics are identified by asterisks; ampersands identify bad metrics.
 
 点击本[**链接**](https://developers.google.com/tech-writing/one/active-voice#expandable-3)查看原答案。
+
+[^1]: “Getting the ball rolling” 是个惯用语，含义与 “to get something started.” 相似。
+
+
