@@ -8,7 +8,7 @@
 [**Get started**](https://jiekun.github.io/tech-writing/)
 
 
-> 译者注：本套写作指南翻译自 Google 的 [Technical Writing Courses](https://developers.google.com/tech-writing)，在此推荐有兴趣的同学参与到原课程的更多内容中去。Google 除了本套 Courses 外，还有大量技术创作、技术分享的课程。
+> *译者注：本套写作指南翻译自 Google 的 [Technical Writing Courses](https://developers.google.com/tech-writing)，在此推荐有兴趣的同学参与到原课程的更多内容中去。Google 除了本套 Courses 外，还有大量技术创作、技术分享的课程。*
 
 ---
 
