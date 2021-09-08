@@ -1,4 +1,4 @@
-![](./static/logo_trans.png)
+![](./static/logo_trans_small.png)
 
 # 技术写作课程
 
