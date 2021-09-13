@@ -20,7 +20,7 @@
 
 很多作者依赖 *be* 的不同形式，仿佛这是唯一的选择。请播种不同的动词到你的写作中，让作品变得更加诱人。尽管如此，有时 *be* 的不同形式是最佳选择，所以也不一定要消灭所有对 *be* 的使用。
 
-注意一般的动词可能提示着其他问题，如：
+注意类动词（generic verbs）可能提示着其他问题，如：
 - 句子不准确或缺失施动者（actor）
 - 句子使用了被动语态
 
@@ -30,3 +30,42 @@
 2. 当你在声明末尾漏了分号的时候，会出现编译错误。
 
 点击本[**链接**](https://developers.google.com/tech-writing/one/clear-sentences#expandable-1)查看原答案。
+
+## 1.3.2 减少 there is/there are 的使用
+以 **There is** 或 **There are** 开头的句子将类名词（generic noun）和类动词绑在一起。这种类的词组对让读者厌烦。请用真正的主语和动词来打动你的读者。
+
+最佳解决方案，只需简单地去掉 **There is** 或 **There are**（可能还包括它们后面的一到两个词）。例如，以下句子：
+
+> 有个叫 `met_trick` 的变量存储着当前精度。
+
+移除 **There is**，用更好的主语代替类主语。比如下列两个句子都比原来的更清晰明了：
+
+> 名为 `met_trick` 的变量存储着当前精度。
+> `met_trick` 变量存储着当前精度。
+
+有时你可以通过将句子末尾真正的主语和动词移到开头，来修复一个包含 **There is** 或 **There are** 的句子。举例，可以看到代词 **你** 出现在句末：
+
+> 有两个关于 Perl 的恼人事实你应该知道。
+
+用 **你** 代替 **有...** 可以强化句子表达：
+
+> 你应该知道两个关于 Perl 的恼人事实。
+
+在其他情况中，有的作者使用 **There is** 或 **There are** 来避免浪费功夫创造一个主语。如果句子中不包含主语，可以考虑编一个。譬如，以下的 **There is** 表达就不表述它想指代的实体：
+
+> 没有任何保证（There is no guarantee that）修改可以保持顺序地被接收。
+
+用一个有含义的主语代替“There is”（比如 **客户端**）可以得到一个体验更好的表达：
+
+> 客户端可能不会顺序地收到修改。
+
+### 1.3.2.1 *随堂练习*
+通过移除 **There is** 、重新编排、修改、加减额外词汇，来简化以下句子：
+1. There is a lot of overlap between X and Y.
+2. There is no creator stack for the main thread.
+3. There is a low-level, TensorFlow, Python interface to load a saved model.
+4. There is a sharding function named `distribute` that assigns keys.
+
+> *译注：为了更方便结合本节内容，习题不作翻译，有兴趣的读者可以思考完成*
+
+点击本[**链接**](https://developers.google.com/tech-writing/one/clear-sentences#expandable-2)查看原答案。

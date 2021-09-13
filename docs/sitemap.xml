@@ -1,47 +1,89 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
   <url>
     <loc>https://jiekun.github.io/tech-writing/docs/one/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://jiekun.github.io/tech-writing/docs/one/active-voice/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://jiekun.github.io/tech-writing/docs/one/audience/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://jiekun.github.io/tech-writing/docs/one/clear-sentences/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://jiekun.github.io/tech-writing/docs/one/documents/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://jiekun.github.io/tech-writing/docs/one/lists-and-tables/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://jiekun.github.io/tech-writing/docs/one/paragraphs/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://jiekun.github.io/tech-writing/docs/one/short-sentences/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://jiekun.github.io/tech-writing/docs/one/summary/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://jiekun.github.io/tech-writing/docs/one/words/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://jiekun.github.io/tech-writing/docs/overview/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://jiekun.github.io/tech-writing/docs/two/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://jiekun.github.io/tech-writing/docs/two/editing/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://jiekun.github.io/tech-writing/docs/two/illustrations/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://jiekun.github.io/tech-writing/docs/two/large-docs/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://jiekun.github.io/tech-writing/docs/two/sample-code/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://jiekun.github.io/tech-writing/docs/two/summary/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://jiekun.github.io/tech-writing/categories/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://jiekun.github.io/tech-writing/docs/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://jiekun.github.io/tech-writing/tags/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://jiekun.github.io/tech-writing/</loc>
   </url>
+  
 </urlset>
